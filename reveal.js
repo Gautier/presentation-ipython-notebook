@@ -1,1 +1,0 @@
-/home/gautier/Desktop/Downloads/reveal.js-2.6.2
